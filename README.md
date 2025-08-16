@@ -32,7 +32,7 @@ if (idadeUsuario >= 18) {
 
 1 - Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/SabrinaPF98/desafios-logica-de-programacao-javascript.git
 ```
 
 2 - Abra o arquivo desafios.js em um navegador ou editor de código (ex: VSCode).
