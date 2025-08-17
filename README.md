@@ -48,7 +48,7 @@ while (contador > 0) {
 
 ## ✅ O que foi aprendido
 
-A importância de controlar corretamente variáveis de repetição em laços while.
+A importância de controlar corretamente variáveis de repetição em laços `while`.
 
 Como identificar e resolver loops infinitos.
 
@@ -60,6 +60,6 @@ Uso de prompts, parseInt e console.log em JavaScript para interação com o usu�
 
 Exercitar o raciocínio lógico.
 
-Praticar a aplicação de estruturas de repetição (while).
+Praticar a aplicação de estruturas de repetição (`while`).
 
 Garantir o controle de fluxo em algoritmos simples.
